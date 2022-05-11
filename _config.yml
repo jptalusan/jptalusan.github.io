@@ -37,6 +37,9 @@ additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+- title: Google Scholar
+  icon: ai ai-google-scholar
+  url: https://scholar.google.co.jp/citations?hl=en&pli=1&user=2xtpiAMAAAAJ
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
