@@ -31,7 +31,7 @@ youtube_username: jptalusan
 
 # Additional icon links
 additional_links:
-- title: JPinJPBlog
+- title: Wordpress link
   icon: fab fa-wordpress
   url: https://jpinjpblog.wordpress.com/
 # - title: another link
@@ -124,11 +124,11 @@ content:
 
       - Reading
       - Basketball
-      - Photography: I have more photos in both my [Instagram](https://www.instagram.com/linusmotu/) and [Wordpress](https://jpinjpblog.wordpress.com/category/photography/)
+      - Photography: I have more photos in both my [Instagram](https://www.instagram.com/linusmotu/){:target="_blank"} and [Wordpress](https://jpinjpblog.wordpress.com/category/photography/){:target="_blank"}
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
@@ -140,6 +140,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
-
-kramdown:
-  input: Kramdown
