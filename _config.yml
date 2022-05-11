@@ -118,10 +118,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in research and software engineering some of my other interests and hobbies are:
+
       - Reading
       - Basketball
       - Photography: I have more photos in both my [Instagram](https://www.instagram.com/linusmotu/) and [Wordpress](https://jpinjpblog.wordpress.com/category/photography/)
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: true
