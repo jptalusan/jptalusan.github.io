@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jose Paolo Talusan
 title: Postdoc Researcher
-email: jptalusan@gmail.com
+email: jose.paolo.talusan@vanderbilt.edu
 website: linusmotu.github.io
 
 # Dark Mode (true/false/never)
@@ -32,7 +32,7 @@ orcid_username: 0000-0002-0921-182X
 # Additional icon links
 additional_links:
 - title: JPinJPBlog
-  icon: fas blog
+  icon: fas fa-blog
   url: https://jpinjpblog.wordpress.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
