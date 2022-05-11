@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Jose Paolo Talusan
+name: Jose Paolo V. Talusan
 title: Postdoc Researcher
 email: jose.paolo.talusan[at]vanderbilt.edu
 website: linusmotu.github.io
@@ -27,12 +27,12 @@ linkedin_username: jptalusan
 # pinterest_username: jekyll
 youtube_username: jptalusan
 # googleplus_username: +jekyll
-orcid_username: 0000-0002-0921-182X
+# orcid_username: 0000-0002-0921-182X
 
 # Additional icon links
 additional_links:
 - title: JPinJPBlog
-  icon: fas fa-globe
+  icon: fab fa-wordpress
   url: https://jpinjpblog.wordpress.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
