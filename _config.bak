@@ -1,0 +1,175 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Jose Paolo V. Talusan
+title: Postdoc Researcher
+email: jose.paolo.talusan[at]vanderbilt.edu
+website: linusmotu.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: facespics
+github_username:  jptalusan
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: linusmotu
+linkedin_username: jptalusan
+# xing_username: jekyll
+# pinterest_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0002-0921-182X
+# Hidden
+# youtube_username: jptalusan
+
+# Additional icon links
+additional_links:
+- title: Wordpress link
+  icon: fab fa-wordpress
+  url: https://jpinjpblog.wordpress.com/
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+- title: Google Scholar
+  icon: ai ai-google-scholar
+  url: https://scholar.google.com/citations?user=2xtpiAMAAAAJ&hl=en
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's JP and I'm currently a Postdoc in Vanderbilt University, working under the Institute of Software Integrated Systems. I work mainly on cyber-physical systems, focusing on data analysis, middleware development and smart transportation Systems. Before this, I have finished my PhD in Nara, Japan, working in the Ubiquitous Computing Systems laboratory.
+
+  I am skilled in: <mark>Python</mark> and <mark>middleware</mark>. Currently working on improving my knowledge on <mark>data analytics</mark>, <mark>machine learning</mark> and to some extent, the statistics behind it. Access my complete CV [here](/cv.pdf){:target="_blank"}.
+
+content:
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Nara Institue of Science and Technology, Japan
+        caption: 2017 - 2020
+        sub_title: Doctor in Engineering
+        quote: >
+          Nara Institute of Science and Technology (NAIST) is a Japanese national university located in Kansai Science City, a border region between Nara, Osaka, and Kyoto. Founded in 1991, NAIST consisted of graduate schools in three integrated areas: information science, biological sciences, and materials science.
+        description: | # this will include new lines to allow paragraphs
+          During my time at NAIST I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+      - layout: left
+        title: Ateneo de Manila University, Philippines
+        caption: 2006 - 2011
+        sub_title: MS Electronics Engineering
+        quote: Ateneo is a private, research, basic and higher education institution founded and run by the Society of Jesus in Quezon City, Philippines. 
+        description: Spent both my undergraduate and masters in Ateneo under the department of Electronics, Computer, and Communications Engineering.
+
+  - title: Latest Publications # Title for the section
+    layout: list # Type of content section (list/text)
+
+    content:
+      - layout: top-middle
+        title: Journals
+        # caption: 2010 - 2013
+        # sub_title: BSc Computer Science
+        description: | # this will include new lines to allow paragraphs
+          **Jose Paolo Talusan**, Michael Wilbur, Abhishek Dubey, and Keiichi Yasumoto. [Route Planning through Distributed Computing by Road Side Units](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206024){:target="_blank"}. IEEE Access (2020), vol. 8, pp. 176134-176148
+
+      - layout: top-middle
+        title: Conferences
+        description: |
+          Mohammad Jaminur Islam\*, **Jose Paolo Talusan\***, S. Bhattacharjee, F. Tiausas, S. Vazirizade, A. Dubey, K. Yasumoto, S. Das. [Anomaly based Incident Detection in Large Scale Smart Transportation Systems](https://scopelab.ai/files/jp2022.pdf){:target="_blank"}. ICCPS 2022 (Best paper nominee)
+
+          F. Tiausas, **Jose Paolo Talusan**, Y. Ishimaki, H. Yamana, H. Yamaguchi, S. Bhattacharjee, A. Dubey, K. Yasumoto, S. Das. [User-centric Distributed Route Planning in Smart Cities based on Multi-objective Optimization](https://drive.google.com/file/d/1XTqmih4yczcGcWNlkBNbNqbpi-25CTPC/view?usp=sharing){:target="_blank"}. IEEE SMARTCOMP 2021
+
+          M. Wilbur, C. Samal, **Jose Paolo Talusan**, K. Yasumoto, A. Dubey. [Time-dependent Decentralized Routing using Federated Learning](https://scopelab.ai/files/wilbur2020decentralized.pdf){:target="_blank"}. ISORC 2021
+
+          **Jose Paolo Talusan**, M. Wilbur, A. Dubey, K. Yasumoto. [On Decentralized Route Planning Using the Road Side Units as Computing Resources](https://conferences.computer.org/cpsiot/pdfs/ICFC2020-6CZgT2ggcWMGzLJEJUUALe/108600a011/108600a011.pdf){:target="_blank"}. International Conference on Fog Computing (ICFC) 2020
+
+          \*Co-first authors.
+          
+          For a complete list, go to my [CV](/cv.pdf){:target="_blank"}
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Nokia/Networklabs
+        sub_title: QA Tester/Software Developer
+        caption: November 2014 - September 2017
+        quote: >
+          Networklabs was directly involved in research work and software development for 3G and 4G radio communication networks for NSN.
+        description: | # this will include new lines to allow paragraphs
+            •	Maintained, developed and tested features for Nokia's base stations. Used C/C++ and Java.
+      - layout: left
+        title: Smart Communications
+        sub_title: Software Developer
+        caption: November 2013 - November 2014
+        quote: >
+          Smart is a telecommunications and digital services provider based in the Philippines
+        description: Developed backend applications for local mobile carriers, used primarily C++ and Java.
+
+
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Aside from Python, I have __some__ <mark>C</mark> and <mark>C++</mark> skills from my time as a software developer working mostly on embedded systems. I am well-versed in geo-spatial packages such as <mark>NetworkX</mark>, <mark>OSMNX</mark> and <mark>Pandas</mark> and <mark>Numpy</mark>.
+
+      Also familiar with tools such as <mark>Redis</mark>, <mark>Pulsar</mark> and <mark>ZeroMQ</mark>
+
+      Currently working on improving my skills on Machine Learning specifically <mark>Tensorflow</mark> and <mark>Keras</mark>, while trying to understand the statistics behind the tools and models.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in research and software engineering some of my other interests and hobbies are:
+
+      - Reading
+      - Basketball
+      - Photography: I post my photos on [Instagram](https://www.instagram.com/linusmotu/){:target="_blank"} and write both academic and personal blogs on my [Wordpress](https://jpinjpblog.wordpress.com/category/photography/){:target="_blank"}
+
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
