@@ -150,7 +150,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      A sample of my published works. A full list can be seen in my <a href="/assets/cv.pdf" target="_blank" rel="nofollow">cv</a>.
+      A sample of my published works. A full list can be seen in my <a href="/assets/cv.pdf" target="_blank" rel="nofollow">CV</a>.
     papers:
       - title: "Route Planning through Distributed Computing by Road Side Units"
         link: "https://ieeexplore.ieee.org/document/9206024"
