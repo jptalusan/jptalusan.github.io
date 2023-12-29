@@ -2,13 +2,13 @@
 {% if projects %}
 <section class="section projects-section">
 
-  <h2 class="section-title">
+  <h4 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
     {{ projects.title }}
-  </h2>
+  </h4>
 
   {% if projects.intro %}
   <div class="intro">
@@ -23,7 +23,11 @@
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
+        {% if project.date %}
+        <small>{{ project.date}}</small> {{ project.title }}
+        {% else %}
         {{ project.title }}
+        {% endif %}
         {% endif %}
       </span>
 

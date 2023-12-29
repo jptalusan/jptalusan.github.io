@@ -62,13 +62,12 @@ career-profile:
       where I apply cutting-edge technologies to drive further innovation.
       
       I work closely with multiple industry partners and solve complex issues through research while at the same time leading multiple grad students in their research that attempts to solve real-world issues through the application of state-of-the-art research:
-      
       * Optimizing public transit substitute bus stationing and dispatching behaviors. In charge of implementing occupancy prediction using machine learning models and developing algorithms to improve stationing and dispatch of substitute buses. I work closely with the transit agency to develop usable tools (historical and real-time bus dashboards) and create data processing pipelines to improve public transit monitoring and response. I also lead multiple graduate students with machine learning and optimization research for public transit.
       * Currently leading a team of grad students and engineers in working with an EV manufacturing company to optimize their charger behaviors using Monte Carlo Tree Search and Reinforcement Learning approaches. I'm in charge of developing a dashboard, custom-built for the company's use case, that will host different tools such as a charging policy simulator built over research work done by the team.
 
-      Full CV
+      <a href="/assets/cv.pdf" target="_blank" rel="nofollow">Download my full CV for more information</a>
       <a href="/assets/cv.pdf" target="_blank" rel="nofollow">
-        <img width="36" height="36" border="0" align="center"  src="/assets/resume.png"/>
+        <img width="22" height="22" border="0" align="center"  src="/assets/resume.png"/>
       </a>
 
 
@@ -80,8 +79,17 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Paper Accepted
-        link: "#hook"
-        tagline: Our paper "Forecasting and Mitigating Disruptions in Public Bus Transit Services" has been accepted to the The 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS) to be held in the University of Auckland.
+        date: Dec. 2023
+        # link: "#education"
+        tagline: Our paper <i>"Forecasting and Mitigating Disruptions in Public Bus Transit Services"</i> has been accepted to <i>The 23rd International Conference on Autonomous Agents and Multi-Agent Systems</i> (AAMAS) to be held in the University of Auckland.
+
+      - title: Paper Accepted
+        date: Jun. 2023
+        tagline: Our paper <i>"Addressing APC Data Sparsity in Predicting Occupancy and Delay of Transit Buses A Multitask Learning Approach"</i> has been accepted to the 2023 IEEE International Conference on Smart Computing (SMARTCOMP) held in Vanderbilt University.
+
+      - title: Journal Published
+        date: Jun. 2023
+        tagline: Our paper <i>"HPRoP Hierarchical Privacy-Preserving Route Planning for Smart Cities"</i> has been published in the June 2023 volume of ACM Transactions on Cyber-Physical Systems.
 
 #       - title: DevStudio
 #         link: "#"
@@ -106,12 +114,11 @@ education:
         university: Nara Institute of Science and Technology, Japan
         time: 2017-2020
         details: |
-          I received my PhD in Japan, where my research centered around
-          middleware systems for resource-constrained devices with a focus on smart transportation. 
+          I received my PhD under a Japanese Government Scholarship. I was a member of the Ubiquitous Computing Systems laboratory
+          where my research centered around middleware systems for resource-constrained devices with a focus on smart transportation. 
           I have a strong background in both theoretical and practical applications of 
-          computer science and am dedicated to pushing the boundaries of innovation in this field.
-            - Dissertation: Design and Implementation of Decentralized Smart City Services on the Edge
-            - Japanese Government Scholarship
+          computer science, primarily in distributed computing and am dedicated to pushing the boundaries of innovation in this field.
+            - Dissertation: <i>Design and Implementation of Decentralized Smart City Services on the Edge</i>
       - degree: MSc in Electronics Engineering
         university: Ateneo de Manila University, Philippines
         time: 2013 - 2015
@@ -120,10 +127,10 @@ education:
           device meant to be deployed in rural areas in the Philippines. These devices are meant to hold terabytes of information
           that can be accessed to custom designed services. We targeted various aspects of the community such as health, education, and agriculture, with the 
           intention of integrating them into a cyber-physical system of smart instruments for a smart connected community.
-            - Dissertation: Design, Development and Demonstration of a Highly Interactive Near Cloud Architecture for Institutions over Wireless Connectivity
+            - Dissertation: <i>Design, Development and Demonstration of a Highly Interactive Near Cloud Architecture for Institutions over Wireless Connectivity</i>
 
 experiences:
-    title: Experiences
+    title: Work Experience
     info:
       - role: Postdoctoral Researcher
         time: 2020 - 2022
@@ -136,7 +143,7 @@ experiences:
         time: 2015 - 2017
         company: Nokia, Philippines
         details: |
-          Maintained, developed and tested features for Nokia’s base stations. Used C/C++ and Java.
+          Maintained, developed and tested features for Nokia's base stations. Used C/C++ and Java.
 
 
 # oss:
@@ -161,7 +168,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      A sample of my published works. A full list can be seen in my <a href="/assets/cv.pdf" target="_blank" rel="nofollow">CV</a>.
+      A sample of my published works are available below. A full list can be seen in my <a href="/assets/cv.pdf" target="_blank" rel="nofollow">CV</a>.
     papers:
       - title: "Route Planning through Distributed Computing by Road Side Units"
         link: "https://ieeexplore.ieee.org/document/9206024"
@@ -194,10 +201,10 @@ skills:
         level: 60%
 
       - name: Google Cloud services
-        level: 20%
+        level: 40%
 
       - name: Spark/Hadoop
         level: 40%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
