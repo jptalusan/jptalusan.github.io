@@ -80,6 +80,11 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Paper Accepted
+        date: Jan. 2024
+        # link: "#education"
+        tagline: Our paper <i>"An Online Approach to Solving Public Transit Stationing and Dispatch Problem"</i> has been accepted to <i>The 15th ACM/IEEE International Conference on Cyber-Physical Systems</i> (ICCPS) to be held in Hong Kong.
+
+      - title: Paper Accepted
         date: Dec. 2023
         # link: "#education"
         tagline: Our paper <i>"Forecasting and Mitigating Disruptions in Public Bus Transit Services"</i> has been accepted to <i>The 23rd International Conference on Autonomous Agents and Multi-Agent Systems</i> (AAMAS) to be held in the University of Auckland.
