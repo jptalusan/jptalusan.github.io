@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Jose Paolo Talusan
-    tagline: Postdoctoral Researcher
+    tagline: Research Scientist
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -79,6 +79,10 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: New Job
+        date: Mar. 2024
+        tagline: I'm starting my new position as Research Scientist in the Institute of Software Integrated Systems, Vanderbilt University.
+
       - title: Paper Accepted
         date: Jan. 2024
         # link: "#education"
