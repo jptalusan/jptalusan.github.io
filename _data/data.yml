@@ -81,7 +81,7 @@ projects:
     assignments:
       - title: New Job
         date: Mar. 2024
-        tagline: I'm starting my new position as Research Scientist in the Institute of Software Integrated Systems, Vanderbilt University.
+        tagline: I'm starting my new position as Research Scientist in the Institute for Software Integrated Systems, Vanderbilt University.
 
       - title: Paper Accepted
         date: Jan. 2024
@@ -142,13 +142,16 @@ education:
 experiences:
     title: Work Experience
     info:
+      - role: Research Scientist
+        time: 03/2024 - Present
+        company: Institute for Software Integrated Systems at Vanderbilt University, Nashville, USA
       - role: Postdoctoral Researcher
-        time: 2022 - Present
-        company: Institute of Software Information Systems at Vanderbilt University, Nashville, USA
+        time: 04/2022 - 03/2024
+        company: Institute for Software Integrated Systems at Vanderbilt University, Nashville, USA
         details: |
           I work closely with multiple industry partners and solve complex issues through research while at the same time leading multiple grad students in their research that attempts to solve real-world issues through the application of state-of-the-art research.
       - role: Postdoctoral Researcher
-        time: 2020 - 2022
+        time: 2020 - 03/2022
         company: Nara Institute of Science and Technology, Japan
         details: |
           Worked on smart city projects primarily on cyber-physical systems for transportation networks, with an emphasis on the Internet-of-Things (IoT) and <strong>middleware</strong> research for distributed computing over edge devices.
