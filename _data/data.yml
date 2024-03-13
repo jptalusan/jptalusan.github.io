@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      As a Postdoctoral Researcher at the Institute of Software Information Systems in Vanderbilt University, 
+      As a Postdoctoral Researcher at the Institute for Software Integrated Systems in Vanderbilt University, 
       I specialize in <strong>decision optimization</strong> within the field of public transportation. 
       My work focuses on modeling problems as Markov decision processes and utilizing algorithms such
       as Monte Carlo tree search and reinforcement learning to find optimal solutions. 
