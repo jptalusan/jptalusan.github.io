@@ -79,6 +79,10 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Best Paper Award
+        date: May 2024
+        tagline: Our paper <i>"An Online Approach to Solving Public Transit Stationing and Dispatch Problem"</i> has been awarded the <a href="/assets/iccps2024_bestpaper.pdf" target="_blank" rel="nofollow">Best Paper</a> in <i>The 15th ACM/IEEE International Conference on Cyber-Physical Systems</i>.
+
       - title: New Job
         date: Mar. 2024
         tagline: I'm starting my new position as Research Scientist in the Institute for Software Integrated Systems, Vanderbilt University.

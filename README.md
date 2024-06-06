@@ -47,9 +47,14 @@ Changes *_data/data.yml* will be visible after a while.
 ```bash
 git clone https://github.com/sharu725/online-cv.git
 ```
+* Install ruby on mac
+```bash
+sudo brew install ruby
+sudo gem install bundler
+```
 * Install required ruby gems
 ```bash
-bundle install
+sudo bundle install
 ```
 * Serve the site locally
 ```bash
