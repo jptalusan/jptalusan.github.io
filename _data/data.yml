@@ -19,6 +19,7 @@ sidebar:
     citizenship: Filipino
     website: jptalusan.github.io #do not add http://
     linkedin: jptalusan
+    googlescholar: jptalusan
     # xing: alandoe
     github: jptalusan
     telegram: # add your nickname without '@' sign
@@ -55,7 +56,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      As a Postdoctoral Researcher at the Institute for Software Integrated Systems in Vanderbilt University, 
+      As a Research Scientist at the Institute for Software Integrated Systems in Vanderbilt University, 
       I specialize in <strong>decision optimization</strong> within the field of public transportation. 
       My work focuses on modeling problems as Markov decision processes and utilizing algorithms such
       as Monte Carlo tree search and reinforcement learning to find optimal solutions. 
@@ -79,6 +80,10 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: News article published
+        date: June 2042
+        tagline: <a href="https://engineering.vanderbilt.edu/2024/06/03/ai-system-used-to-improve-nashville-public-transit-takes-top-honors-at-international-research-conference/" target="_blank" rel="nofollow">AI system used to improve Nashville public transit takes top honors at international research conference</a>.
+
       - title: Best Paper Award
         date: May 2024
         tagline: Our paper <i>"An Online Approach to Solving Public Transit Stationing and Dispatch Problem"</i> has been awarded the <a href="/assets/iccps2024_bestpaper.pdf" target="_blank" rel="nofollow">Best Paper</a> in <i>The 15th ACM/IEEE International Conference on Cyber-Physical Systems</i>.
@@ -92,34 +97,18 @@ projects:
         # link: "#education"
         tagline: Our paper <i>"An Online Approach to Solving Public Transit Stationing and Dispatch Problem"</i> has been accepted to <i>The 15th ACM/IEEE International Conference on Cyber-Physical Systems</i> (ICCPS) to be held in Hong Kong.
 
-      - title: Paper Accepted
-        date: Dec. 2023
-        # link: "#education"
-        tagline: Our paper <i>"Forecasting and Mitigating Disruptions in Public Bus Transit Services"</i> has been accepted to <i>The 23rd International Conference on Autonomous Agents and Multi-Agent Systems</i> (AAMAS) to be held in the University of Auckland.
+      # - title: Paper Accepted
+      #   date: Dec. 2023
+      #   # link: "#education"
+      #   tagline: Our paper <i>"Forecasting and Mitigating Disruptions in Public Bus Transit Services"</i> has been accepted to <i>The 23rd International Conference on Autonomous Agents and Multi-Agent Systems</i> (AAMAS) to be held in the University of Auckland.
 
-      - title: Paper Accepted
-        date: Jun. 2023
-        tagline: Our paper <i>"Addressing APC Data Sparsity in Predicting Occupancy and Delay of Transit Buses A Multitask Learning Approach"</i> has been accepted to the 2023 IEEE International Conference on Smart Computing (SMARTCOMP) held in Vanderbilt University.
+      # - title: Paper Accepted
+      #   date: Jun. 2023
+      #   tagline: Our paper <i>"Addressing APC Data Sparsity in Predicting Occupancy and Delay of Transit Buses A Multitask Learning Approach"</i> has been accepted to the 2023 IEEE International Conference on Smart Computing (SMARTCOMP) held in Vanderbilt University.
 
-      - title: Journal Published
-        date: Jun. 2023
-        tagline: Our paper <i>"HPRoP Hierarchical Privacy-Preserving Route Planning for Smart Cities"</i> has been published in the June 2023 volume of ACM Transactions on Cyber-Physical Systems.
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Journal Published
+      #   date: Jun. 2023
+      #   tagline: Our paper <i>"HPRoP Hierarchical Privacy-Preserving Route Planning for Smart Cities"</i> has been published in the June 2023 volume of ACM Transactions on Cyber-Physical Systems.
 
 education:
     title: Education
@@ -192,6 +181,11 @@ publications:
     intro: |
       A sample of my published works are available below. A full list can be seen in my <a href="/assets/cv.pdf" target="_blank" rel="nofollow">CV</a>.
     papers:
+      - title: "An Online Approach to Solving Public Transit Stationing and Dispatch Problem"
+        link: "https://scopelab.ai/files/talusan2024ICCPS.pdf"
+        authors: <strong>Jose Paolo Talusan</strong>, C. Han, A. Mukhopadhyay, A. Laszka, D. Freudberg, and A. Dubey
+        conference: "ICCPS 2024"
+
       - title: "Route Planning through Distributed Computing by Road Side Units"
         link: "https://ieeexplore.ieee.org/document/9206024"
         authors: <strong>Jose Paolo Talusan</strong>, M. Wilbur, A. Dubey and K. Yasumoto
