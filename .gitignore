@@ -2,4 +2,4 @@
 .DS_Store
 _site/assets
 _site/*
-_site
+_site/**

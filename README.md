@@ -49,7 +49,8 @@ git clone https://github.com/sharu725/online-cv.git
 ```
 * Install ruby on mac
 ```bash
-sudo brew install ruby
+sudo brew install ruby@2.7
+# ruby 2.7.8p225 (2023-03-30 revision 1f4d455848) [arm64-darwin23]
 sudo gem install bundler
 ```
 * Install required ruby gems
